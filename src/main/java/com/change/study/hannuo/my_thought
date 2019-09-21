@@ -1,4 +1,4 @@
-![image](https://github.com/DeosChange/algorithm-study/blob/master/images/mytest.png?raw=true)
+![image](https://github.com/DeosChange/algorithm-study/blob/master/images/mytest.png)
 一、算法分析上将之提炼为三段操作：
 1、前段操作： 把n-1个盘子由A 移到 B；
 2、中段操作： 把第n个盘子由 A移到 C；
