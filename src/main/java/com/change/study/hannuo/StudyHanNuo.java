@@ -25,8 +25,8 @@ public class StudyHanNuo {
 	public static void main(String[] args) {
 		Integer testNum = 4;
 		maxNum = testNum;
-//		testHanNuo2(testNum);
-		testhanNuo(testNum);
+		testHanNuo2(testNum);
+//		testhanNuo(testNum);
 	}
 	
 	//概念性实现
